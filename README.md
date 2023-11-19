@@ -53,3 +53,7 @@ Para a instalação do Anaconda, foi seguido o tutorial disponibilizado pelo Pro
     python3 lang_streaming.py
     ```
 **Observação**: O ambiente virtual deve ser ativado sempre que for executar o código e a aplicação necessita de uma chave de acesso para funcionar.
+
+## Link do funcionamento da aplicação
+
+[Link do funcionamento da aplicação](https://drive.google.com/file/d/1Gu8OcqP2MsUbIuJhF1IHnstAazz-T5YW/view?usp=sharing)
